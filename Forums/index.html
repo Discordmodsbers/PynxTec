@@ -8,7 +8,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   
+    #post-list {
+  width: calc(100vw - 64px);
+  margin: 48px auto;
+}
+
+.post {
+  width: 100%;
+  padding: 8px 24px;
+  border: 1px solid #ABABAB;
+  border-radius: 16px;
+}
+<form id="add-post">
+  <input type="text" name="text" class="post-content" autocomplete="off" placeholder="What's on your mind?" required><input type="submit">
+</form>
+
+<div id="post-list">
+  <div class="post">Test Post</div>
+</div>
     <input type="text" id="comment-box" placeholder="Enter comment">
     <button id="post">Post</button>
     <ul id="unordered">
