@@ -1,0 +1,45 @@
+IP Address:	128.32.196.72
+Hostname:	128.32.196.72 (Not set. Same as IP address)
+Internet Protocol:	IPv4 - IP Version 4
+Types:	Public
+IP Classes:	Class B Range
+(128.0.0.0 to 191.255.255.255)
+Reverse DNS:	** server can't find 72.196.32.128.in-addr.arpa: SERVFAIL
+Blacklist Check:	Not Blacklisted (Clean)
+[128.32.196.72 Blacklist Check]
+Location Details
+Continent:	North America (NA)
+Country:	United States   IP Location Found In United States (US)
+National Motto:	In God We Trust (official) / God Bless America (unofficial)
+Anthem:	The Star-Spangled Banner (adopted 1931)
+Capital:	Washington
+State:	California
+City:	Berkeley
+Postal:	94702
+Area:	510
+Metro:	807
+ISP:	UCB
+Organization:	UCB
+AS Number:	AS25 UCB
+
+IP Weather Station: Berkeley
+Sky: clear sky
+Temp: 23.8 ?C (max 28.6 ?C / min 18.3 ?C)
+Wind Speed: 0.9 m/s
+Wind Direction: 252.0?
+Humidity: 46%
+Cloudiness: 0%
+Atmospheric pressure: 1013 kPa
+Time Zone:	America/Los_Angeles
+Local Time:	08:43:51
+Timezone GMT offset:	-25200
+Sunrise / Sunset:	05:47 / 20:34
+Extra Information
+Continent Latitude/Longitude:	46.07305 / -100.546
+Country Latitude/Longitude:	38 / -98
+City Latitude/Longitude:	(37.8682) / (-122.2865)
+Language:	English
+Speed:	Broadband (Cable/DSL) Internet Speed
+[ Check Internet Speed For 128.32.196.72]
+Currency:	United States dollar($) (USD)
+IDD Code:	+1
