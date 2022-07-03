@@ -1,3 +1,5 @@
-$.getJSON('https://api.db-ip.com/v2/free/self', function(data) {
-  console.log(JSON.stringify(data, null, 2));
+document.addEventListener('mouseout', e => {
+    if (!e.toElement && !e.relatedTarget) {
+        document.querySelector('.exit-intent-popup').classList.add('visible'); 
+    }
 });
