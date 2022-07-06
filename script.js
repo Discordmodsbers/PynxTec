@@ -31,3 +31,9 @@ function closeNav() {
   document.getElementById("mySidebar").style.width = "0";
   document.getElementById("main").style.marginLeft = "0";
 }
+var connection = mysql.createConnection({
+	host     : 'lin-5547-4194-mysql-primary.servers.linodedb.net',
+	user     : 'linroot',
+	password : 'pRU#olTED12Y2Au7',
+	database : 'PynxTech'
+});
