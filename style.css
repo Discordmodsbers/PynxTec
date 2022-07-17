@@ -256,3 +256,51 @@ a:hover {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
 }
+.text{
+  font-family: Roboto;
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ .dark-mode {
+    background-color: black;
+    color: white;
+    transition: none;
+  }
+
+  .darkButton{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(68, 68, 68);
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+    width: 150px;
+    margin-top: 100px;
+    padding: 10px 50px 10px 50px;
+    border-radius: 25px;
+    cursor: pointer;
+    -ms-user-select: None;
+    -moz-user-select: None;
+    -webkit-user-select: None;
+    user-select: None;
+  }
+
+  .darkButton:hover{
+    background-color: rgb(100, 100, 100);
+  }
+
+  .lightButton{
+    background-color: rgb(220, 220, 220);
+    color: black;
+    font-family: Roboto;
+  }
+
+  .lightButton:hover{
+    background-color: white;
+  }
