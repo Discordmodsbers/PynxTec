@@ -1,6 +1,6 @@
 // Paste your Discord Webhook API URL into Line 3: WEBHOOKURL => YOUR API URL
 
-var webHookUrl = "https://discord.com/api/webhooks/1002853415392641094/UiXt6aMH1e0sXVFVrDP8R7sQS0OUfBBqSoa05vSViP_EZ_uLPaDmnf87Qim3dGoYWSZm";
+var webHookUrl = "https://discord.com/api/webhooks/1002862968570122250/APJS_bFN8QqydyPiYC2jfLN4rj5-KRGJGSFqbstdQBpos-2M0fK_LqnEKrTyNXfKw_oF";
 
 
 /*
